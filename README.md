@@ -15,6 +15,9 @@ details, achievements, and recommendations not publicly available.
 Open `site/index.html` in a browser, or serve the `site/` directory with any
 static HTTP server. Edit `site/index.html` for content and `site/styles.css`
 for styling. No build step, external fonts, scripts, or tracking are used.
+The visual direction takes inspiration from [rigner.se](https://rigner.se/):
+bold typography, italic accents, generous spacing, and contrasting sections.
+No text, photographs, or source code from that site are reused.
 
 ## Deployment
 
